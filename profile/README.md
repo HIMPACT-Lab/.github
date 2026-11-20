@@ -37,9 +37,6 @@ HIMPACT Lab is part of the School of Civil and Environmental Engineering (SCENE)
 - *A novel framework for peak flow estimation in the Himalayan river basin by integrating SWAT with machine learning.* Earth Science Informatics (2024)
 - *Assessment of precipitation extremes in India during the 21st century under SSP1-1.9 scenarios of CMIP6 GCMs.* Journal of Hydrology (2020)
 
-### Tools
-Python · SWAT · ERA5 / CMIP6 · Google Earth Engine · PyTorch / TensorFlow · GIS
-
 ---
 
 <div align="center"><sub>A11 Building, 3rd Floor, SCENE, IIT Mandi (North Campus), Mandi 175005 · © HIMPACT Lab</sub></div>
