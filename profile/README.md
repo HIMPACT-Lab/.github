@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/HIMPACT-Lab/himpact-lab.github.io/main/logo.png" width="120" alt="HIMPACT Lab logo">
+
 # HIMPACT Lab
 
 **Himalayan Hydroclimatology Impact Research Lab · IIT Mandi**
